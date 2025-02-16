@@ -13,3 +13,7 @@ Pull the Latest Changes from GitHub.
 Activate the Project Virtual Environment.
 Install dependencies.
 Save & git-add-commit-push.
+
+## 3 - Choose Data Source
+Taxi Trip Record Data
+https://github.com/mwaskom/seaborn-data/blob/master/taxis.csv
