@@ -17,3 +17,6 @@ Save & git-add-commit-push.
 ## 3 - Choose Data Source
 Taxi Trip Record Data
 https://github.com/mwaskom/seaborn-data/blob/master/taxis.csv
+
+## 4 - Create Notebook
+Create notebook & select kernel.

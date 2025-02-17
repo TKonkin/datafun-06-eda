@@ -3,4 +3,5 @@ jupyterlab
 pandas
 pyarrow
 matplotlib
+ipykernel
 seaborn
