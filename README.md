@@ -20,3 +20,11 @@ https://github.com/mwaskom/seaborn-data/blob/master/taxis.csv
 
 ## 4 - Create Notebook
 Create notebook & select kernel.
+Load Date.
+Data Inspection.
+Descriptive Statistics.
+Data Distribution for Numerical Columns.
+Data Transformation & Feature Engineering.
+
+## 5 - Visualizations
+Chart A - Scatterplot
