@@ -28,3 +28,5 @@ Data Transformation & Feature Engineering.
 
 ## 5 - Visualizations
 Chart A - Scatterplot
+Chart B - Bar Chart
+Chart C - Line Chart
